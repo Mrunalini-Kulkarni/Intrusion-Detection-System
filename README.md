@@ -80,10 +80,6 @@ IDS_Simulator/
 │   └── README.md
 └── README.md                 # Project overview
 
-
-📜 License
-This project is licensed under the MIT License. See LICENSE for details.
-
 🏆 Acknowledgments
 Knuth-Morris-Pratt Algorithm: For efficient pattern matching.
 D3.js: For interactive network graph visualization.
