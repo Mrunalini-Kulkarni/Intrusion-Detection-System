@@ -30,19 +30,16 @@ An interactive simulator designed to detect and visualize network intrusions usi
 ```bash
 git clone https://github.com/your-username/IDS_Simulator.git
 cd IDS_Simulator
+
 2️⃣ Backend Setup
 Navigate to the backend folder and install dependencies:
 
 bash
-Copy
-Edit
 cd backend
 pip install -r requirements.txt
 Start the Flask server:
 
 bash
-Copy
-Edit
 python app.py
 ✅ The backend will run at http://127.0.0.1:5000.
 
@@ -50,15 +47,11 @@ python app.py
 Navigate to the frontend folder and install dependencies:
 
 bash
-Copy
-Edit
 cd ../frontend
 npm install
 Start the React app:
 
 bash
-Copy
-Edit
 npm start
 ✅ The frontend will open at http://localhost:3000.
 
@@ -69,9 +62,6 @@ npm start
 4️⃣ View real-time results and network visualization.
 
 📁 Project Structure
-csharp
-Copy
-Edit
 IDS_Simulator/
 ├── backend/                  # Flask backend
 │   ├── app.py                # Main Flask app
